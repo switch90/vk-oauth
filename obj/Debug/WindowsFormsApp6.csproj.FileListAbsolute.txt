@@ -1,0 +1,17 @@
+c:\users\igor\documents\visual studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+c:\users\igor\documents\visual studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+c:\users\igor\documents\visual studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+c:\users\igor\documents\visual studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\HtmlAgilityPack.dll
+c:\users\igor\documents\visual studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\Newtonsoft.Json.dll
+c:\users\igor\documents\visual studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\VkNet.dll
+c:\users\igor\documents\visual studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\HtmlAgilityPack.pdb
+c:\users\igor\documents\visual studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\HtmlAgilityPack.xml
+c:\users\igor\documents\visual studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\Newtonsoft.Json.xml
+c:\users\igor\documents\visual studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\VkNet.xml
+c:\users\igor\documents\visual studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojResolveAssemblyReference.cache
+c:\users\igor\documents\visual studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+c:\users\igor\documents\visual studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form2.resources
+c:\users\igor\documents\visual studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+c:\users\igor\documents\visual studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.Cache
+c:\users\igor\documents\visual studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+c:\users\igor\documents\visual studio 2017\Projects\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
